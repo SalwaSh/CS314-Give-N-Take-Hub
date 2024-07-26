@@ -12,12 +12,11 @@ The report investigates the process of building this system, beginning with the 
 *This website was developed using the **Waterfall methodology**.
 
 ## Screenshots 📷
-![image](https://github.com/user-attachments/assets/dfec4156-5423-411b-9121-187ed17052d9)
-![image](https://github.com/user-attachments/assets/ae729b73-16a5-40a4-9597-79308526f92c)
-![image](https://github.com/user-attachments/assets/f002b89d-0bd9-400a-a9fe-059277550d74)
-![image](https://github.com/user-attachments/assets/3c410e49-e092-488c-82ff-7c80385a2719)
 
-
+<img src="https://github.com/user-attachments/assets/ae729b73-16a5-40a4-9597-79308526f92c" width="500" height="500">
+<img src="https://github.com/user-attachments/assets/f002b89d-0bd9-400a-a9fe-059277550d74" width="500" height="500">
+<img src="https://github.com/user-attachments/assets/f4601aaf-8f2d-49a1-af3a-a4c5a1dd85d6" width="500" height="500">
+<img src="https://github.com/user-attachments/assets/3c410e49-e092-488c-82ff-7c80385a2719" width="500" height="500">
 
 ## Demo 🎥
 https://github.com/Samah022/Give-N-Get-Hub/assets/97039075/778f7f87-1d82-41fe-bbdf-b2d41b729197
