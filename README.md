@@ -6,8 +6,6 @@ According to the well-known story of a man with a difficult financial situation 
 ## Project Structure 📂
 In general, the website offers three main services: "Borrow Products," "Exchange Products," and "Gift Products." Additionally, the website provides discount coupons to incentivize customers to utilize its services. 🔥
 
-
-
 ## Demo 🎥
 https://github.com/Samah022/Give-N-Get-Hub/assets/97039075/778f7f87-1d82-41fe-bbdf-b2d41b729197
 
@@ -16,6 +14,37 @@ https://givengethubweb.pythonanywhere.com/
 or
 https://salwashamma.pythonanywhere.com/
 
+## How to Run ⚙️
+1. Clone the repository.
+```
+git clone https://github.com/SalwaSh/CS314-Give-N-Take-Hub.git
+```
+2. Navigate to the CS314-Projectt folder.
+```
+cd CS314-Projectt
+```
+3. Delete the existing environment.
+```
+rmdir "env"
+```
+4. Create a virtual environment by running 
+```
+py -m venv env.
+```
+5. Activate the virtual environment by running
+```
+ .\env\Scripts\activate
+```
+6. Install Django by running 
+```
+pip install Django
+```
+**Note: May you need to install PIL** ``` pip install Pillow ```
+
+7. Run the server by running python manage.py runserver.
+```
+python manage.py runserver
+```
 ## Contributors ✍️
 
 - Fatima Aljalmoud
