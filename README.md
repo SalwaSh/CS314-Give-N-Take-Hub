@@ -6,13 +6,15 @@ According to the well-known story of a man with a difficult financial situation 
 ## Project Structure 📂
 In general, the website offers three main services: "Borrow Products," "Exchange Products," and "Gift Products." Additionally, the website provides discount coupons to incentivize customers to utilize its services. 🔥
 
+
+
 ## Demo 🎥
-
 https://github.com/Samah022/Give-N-Get-Hub/assets/97039075/778f7f87-1d82-41fe-bbdf-b2d41b729197
-
 
 ## Deployment 🚀
 https://givengethubweb.pythonanywhere.com/
+or
+https://salwashamma.pythonanywhere.com/
 
 ## Contributors ✍️
 
@@ -20,4 +22,4 @@ https://givengethubweb.pythonanywhere.com/
 - Sana Shamma
 - Salwa Shamma
 - Samah Shamma
-- Shatha Faraj﻿# CS314-Give-N-Take-Hub
+- Shatha Faraj﻿
